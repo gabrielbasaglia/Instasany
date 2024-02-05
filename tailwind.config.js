@@ -10,9 +10,20 @@ module.exports = {
       colors: {
         "green-primary": "#1D3531",
         "green-actived": "#5D8A83",
+        "green-border": "#2A4B46",
+        "green-btn": "#CCEC60",
       },
       maxWidth: {
         grid: "77.5rem",
+        "text-hero": "66rem",
+        "area-icons": "53.4375rem",
+        "area-mockup": "59.8125rem",
+      },
+      height: {
+        "section-hero": "54.625rem",
+      },
+      backgroundImage: {
+        hero: "url('/bg-hero.svg')",
       },
     },
   },

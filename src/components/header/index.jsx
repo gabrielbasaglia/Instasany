@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { GridContainer } from "../gridcontainer";
+import { GridContainer } from "@/components/container";
 
 import LogoImg from "/public/logo.svg";
 import SearchIcon from "/public/icon-search.svg";
