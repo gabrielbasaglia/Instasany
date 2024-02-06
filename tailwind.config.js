@@ -12,15 +12,18 @@ module.exports = {
         "green-actived": "#5D8A83",
         "green-border": "#2A4B46",
         "green-btn": "#CCEC60",
+        "green-title-card": "#719D96",
       },
       maxWidth: {
         grid: "77.5rem",
         "text-hero": "66rem",
-        "area-icons": "53.4375rem",
-        "area-mockup": "59.8125rem",
+        "area-icons": "53.4rem",
+        "area-mockup": "59.8rem",
+        "area-cards": "82.5rem",
       },
       height: {
-        "section-hero": "54.625rem",
+        "section-hero": "54.6rem",
+        "area-cards": "35.1rem",
       },
       backgroundImage: {
         hero: "url('/bg-hero.svg')",
